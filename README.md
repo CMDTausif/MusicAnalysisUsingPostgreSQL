@@ -23,9 +23,9 @@ The dataset contains many tables and attributes. Some of the tables have been pr
 
 Basic insights requiring simple SQL operations:
 
-**+Top-selling artist:** Find the artist with the highest album sales.
+**>Top-selling artist:** Find the artist with the highest album sales.
 
-**Most popular genre globally:** Identify the genre with the highest purchases across all countries.
+**>Most popular genre globally:** Identify the genre with the highest purchases across all countries.
 
 **Example Query for Easy Questions**
 
@@ -37,9 +37,9 @@ Basic insights requiring simple SQL operations:
 
 Intermediate questions requiring joins and grouping:
 
-**Country-specific popularity:** Determine the most popular music genre in each country.
+**>Country-specific popularity:** Determine the most popular music genre in each country.
 
-**High-value customers:** List customers with the highest total purchases.
+**>High-value customers:** List customers with the highest total purchases.
 
 **Example Query for Moderate question**
 
@@ -51,11 +51,11 @@ Intermediate questions requiring joins and grouping:
 
 Advanced insights using subqueries and complex joins:
 
-**Genre influence on sales:** Analyze if certain genres dominate purchases in specific regions.
+**>Genre influence on sales:** Analyze if certain genres dominate purchases in specific regions.
 
-**Revenue trends:** Identify the yearly revenue growth for each artist.
+**>Revenue trends:** Identify the yearly revenue growth for each artist.
 
-**Example Query for Tough question**
+**>Example Query for Tough question**
 
 ![tough_question](https://github.com/user-attachments/assets/04cf6759-9d4b-4e65-a5a8-5737c518f19d)
 
@@ -63,23 +63,23 @@ Advanced insights using subqueries and complex joins:
 
 ## 4. Approach-
 
-**Understanding the Schema:** Analyzed the relationships between tables.
+**>Understanding the Schema:** Analyzed the relationships between tables.
 
-**Categorizing Questions:** Grouped questions into three difficulty levels.
+**>Categorizing Questions:** Grouped questions into three difficulty levels.
 
-**Query Writing:** Designed efficient SQL queries to answer each question.
+**>Query Writing:** Designed efficient SQL queries to answer each question.
 
-**Result Interpretation:** Extracted meaningful business insights.
+**>Result Interpretation:** Extracted meaningful business insights.
 
 
 
 ## 5. Tools Used-
 
-**PostgreSQL:** For executing complex SQL queries.
+**1. PostgreSQL:** For executing complex SQL queries.
 
-**PgAdmin 4:** For database exploration and management.
+**2. PgAdmin 4:** For database exploration and management.
 
-**Microsoft Excel:** For data exploration and visualizations.
+**3. Microsoft Excel:** For data exploration and visualizations.
 
 
 
