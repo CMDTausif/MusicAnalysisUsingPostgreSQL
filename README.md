@@ -27,6 +27,10 @@ Basic insights requiring simple SQL operations:
 
 **Most popular genre globally:** Identify the genre with the highest purchases across all countries.
 
+![easy_question](https://github.com/user-attachments/assets/424fade5-f5ad-40f5-bfea-f3593c862b00)
+
+
+
 **2. Moderate**
 
 Intermediate questions requiring joins and grouping:
@@ -34,6 +38,9 @@ Intermediate questions requiring joins and grouping:
 **Country-specific popularity:** Determine the most popular music genre in each country.
 
 **High-value customers:** List customers with the highest total purchases.
+
+![moderate_question](https://github.com/user-attachments/assets/4c7c4438-5c99-405a-b941-39d861a728e4)
+
 
 **3. Hard**
 Advanced insights using subqueries and complex joins:
