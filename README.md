@@ -27,6 +27,8 @@ Basic insights requiring simple SQL operations:
 
 **Most popular genre globally:** Identify the genre with the highest purchases across all countries.
 
+**Example Query for Easy Questions**
+
 ![easy_question](https://github.com/user-attachments/assets/424fade5-f5ad-40f5-bfea-f3593c862b00)
 
 
@@ -39,15 +41,21 @@ Intermediate questions requiring joins and grouping:
 
 **High-value customers:** List customers with the highest total purchases.
 
+**Example Query for Moderate question**
+
 ![moderate_question](https://github.com/user-attachments/assets/4c7c4438-5c99-405a-b941-39d861a728e4)
 
 
+
 **3. Hard**
+
 Advanced insights using subqueries and complex joins:
 
 **Genre influence on sales:** Analyze if certain genres dominate purchases in specific regions.
 
 **Revenue trends:** Identify the yearly revenue growth for each artist.
+
+**Example Query for Tough question**
 
 ![tough_question](https://github.com/user-attachments/assets/04cf6759-9d4b-4e65-a5a8-5737c518f19d)
 
