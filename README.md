@@ -17,3 +17,35 @@ The dataset contains many tables and attributes. Some of the tables have been pr
 
 **Sales -** Purchase records for each album, including the amount and country.
 
+**3. Business Questions and Query Levels-**
+
+**1. Easy**
+
+Basic insights requiring simple SQL operations:
+
+**Top-selling artist:** Find the artist with the highest album sales.
+
+**Most popular genre globally:** Identify the genre with the highest purchases across all countries.
+
+**2. Moderate**
+
+Intermediate questions requiring joins and grouping:
+
+**Country-specific popularity:** Determine the most popular music genre in each country.
+
+**High-value customers:** List customers with the highest total purchases.
+
+**3. Hard**
+Advanced insights using subqueries and complex joins:
+
+**Genre influence on sales:** Analyze if certain genres dominate purchases in specific regions.
+
+**Revenue trends:** Identify the yearly revenue growth for each artist.
+
+![tough_question](https://github.com/user-attachments/assets/04cf6759-9d4b-4e65-a5a8-5737c518f19d)
+
+
+
+
+
+
