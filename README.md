@@ -73,6 +73,15 @@ Advanced insights using subqueries and complex joins:
 
 
 
+**Tools Used-**
+**PostgreSQL:** For executing complex SQL queries.
+
+**PgAdmin 4:** For database exploration and management.
+
+**Microsoft Excel:** For data exploration and visualizations.
+
+
+
 
 
 
