@@ -1,4 +1,4 @@
-# MusicAnalysisUsingPostgreSQL
+# Music Analysis Using PostgreSQL
 
 **1. Project Overview-**  
 
