@@ -19,7 +19,7 @@ The dataset contains many tables and attributes. Some of the tables have been pr
 
 **3. Business Questions and Query Levels-**
 
-**1. Easy**
+**3.1 Easy**
 
 Basic insights requiring simple SQL operations:
 
@@ -33,7 +33,7 @@ Basic insights requiring simple SQL operations:
 
 
 
-**2. Moderate**
+**3.2 Moderate**
 
 Intermediate questions requiring joins and grouping:
 
@@ -47,7 +47,7 @@ Intermediate questions requiring joins and grouping:
 
 
 
-**3. Hard**
+**3.3 Hard**
 
 Advanced insights using subqueries and complex joins:
 
@@ -58,6 +58,19 @@ Advanced insights using subqueries and complex joins:
 **Example Query for Tough question**
 
 ![tough_question](https://github.com/user-attachments/assets/04cf6759-9d4b-4e65-a5a8-5737c518f19d)
+
+
+
+**4 Approach-**
+
+**Understanding the Schema:** Analyzed the relationships between tables.
+
+**Categorizing Questions:** Grouped questions into three difficulty levels.
+
+**Query Writing:** Designed efficient SQL queries to answer each question.
+
+**Result Interpretation:** Extracted meaningful business insights.
+
 
 
 
