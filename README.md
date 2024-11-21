@@ -1,11 +1,11 @@
 # Music Analysis Using PostgreSQL
 
-**1. Project Overview-**  
+## 1. Project Overview-  
 
 This project showcases my SQL skills by solving business questions of varying difficulty using a music store dataset. The dataset includes details such as artist names, rock band names, popular music genres by country, and album purchase statistics.
 I categorized the queries depending on the three levels of business questions that is Easy, Moderate, and Hard, reflecting the complexity and depth of analysis.
 
-**2. Dataset Description-**
+## 2. Dataset Description-
 
 The dataset contains many tables and attributes. Some of the tables have been presented below.
 
@@ -17,7 +17,7 @@ The dataset contains many tables and attributes. Some of the tables have been pr
 
 **Sales -** Purchase records for each album, including the amount and country.
 
-**3. Business Questions and Query Levels-**
+## 3. Business Questions and Query Levels-
 
 **3.1 Easy**
 
@@ -61,7 +61,7 @@ Advanced insights using subqueries and complex joins:
 
 
 
-**4 Approach-**
+## 4. Approach-
 
 **Understanding the Schema:** Analyzed the relationships between tables.
 
@@ -73,7 +73,8 @@ Advanced insights using subqueries and complex joins:
 
 
 
-**Tools Used-**
+## Tools Used-
+
 **PostgreSQL:** For executing complex SQL queries.
 
 **PgAdmin 4:** For database exploration and management.
