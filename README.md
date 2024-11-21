@@ -9,7 +9,7 @@ I categorized the queries depending on the three levels of business questions th
 
 The dataset contains many tables and attributes. Some of the tables have been presented below.
 
-***Artist -**  Name of individual artist
+**Artist -**  Name of individual artist
 
 **Albums -** Details of music albums including the amount and country.
 
@@ -23,7 +23,7 @@ The dataset contains many tables and attributes. Some of the tables have been pr
 
 Basic insights requiring simple SQL operations:
 
-**Top-selling artist:** Find the artist with the highest album sales.
+**+Top-selling artist:** Find the artist with the highest album sales.
 
 **Most popular genre globally:** Identify the genre with the highest purchases across all countries.
 
