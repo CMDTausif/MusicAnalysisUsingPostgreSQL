@@ -1,4 +1,4 @@
-### MusicAnalysisUsingPostgreSQL
+# MusicAnalysisUsingPostgreSQL
 
 **1. Project Overview-**  
 
@@ -10,6 +10,10 @@ I categorized the queries depending on the three levels of business questions th
 The dataset contains many tables and attributes. Some of the tables have been presented below.
 
 **Artist -**  Name of individual artist
+
 **Albums -** Details of music albums including the amount and country.
 
- 
+**Genres -** Popular music genres.
+
+**Sales -** Purchase records for each album, including the amount and country.
+
