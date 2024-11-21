@@ -55,7 +55,7 @@ Advanced insights using subqueries and complex joins:
 
 **>Revenue trends:** Identify the yearly revenue growth for each artist.
 
-**>Example Query for Tough question**
+**Example Query for Tough question**
 
 ![tough_question](https://github.com/user-attachments/assets/04cf6759-9d4b-4e65-a5a8-5737c518f19d)
 
