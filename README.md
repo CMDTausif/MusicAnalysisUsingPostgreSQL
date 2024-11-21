@@ -73,7 +73,7 @@ Advanced insights using subqueries and complex joins:
 
 
 
-## Tools Used-
+## 5. Tools Used-
 
 **PostgreSQL:** For executing complex SQL queries.
 
@@ -83,6 +83,9 @@ Advanced insights using subqueries and complex joins:
 
 
 
+## 6. Conclusion-
+
+This project highlights how SQL can uncover valuable insights from datasets, aiding strategic decisions in the music industry. The use of PostgreSQL, PgAdmin 4, and Excel demonstrates a versatile approach to data analysis.
 
 
 
